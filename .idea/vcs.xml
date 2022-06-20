@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Odoo 14.0.20220608" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Odoo 14.0.20220608/SECPV" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Odoo14" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Odoo14/SECPV" vcs="Git" />
   </component>
 </project>

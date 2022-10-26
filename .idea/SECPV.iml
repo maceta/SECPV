@@ -3,8 +3,8 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/venv" />
-      <excludeFolder url="file://$MODULE_DIR$/Odoo14/server" />
-      <excludeFolder url="file://$MODULE_DIR$/Odoo14/python" />
+      <excludeFolder url="file://$MODULE_DIR$/odoo14/server" />
+      <excludeFolder url="file://$MODULE_DIR$/odoo14/python" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.7 (Odoo 14.0.20220608)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
